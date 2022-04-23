@@ -1,10 +1,12 @@
 package com.chandra.gaya.loan.homeloan.dto;
 
+import com.chandra.gaya.loan.homeloan.entities.Person;
+
 public class HomeLoanReq {
 	
-	private void methoed() {
-		// TODO Auto-generated method stub
-
+	 void methoed() {
+		 Person p=new Person();
+		 
 	}
 
 }
